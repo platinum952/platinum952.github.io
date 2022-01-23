@@ -2,10 +2,10 @@
 title: Sunset Valley
 description: 一个记录学习足迹的地方
 url: https://platinum952.github.io
-avatar: /avatar.webp
+avatar: /avatar/1.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg/1.png
 
 # Gems
 plugins:
