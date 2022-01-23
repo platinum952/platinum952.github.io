@@ -1,6 +1,6 @@
 # Setup
 title: Sunset Valley
-description: 一个记录学习足迹的地方
+description: 一个记录足迹的地方
 url: https://platinum952.github.io
 avatar: /avatar/1.jpg
 paginate: 5
@@ -36,7 +36,7 @@ social:
   name: Liu Ran
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://platinum952.github.io/
 google_site_verification: xxxxx
 lang: cn
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Liu Ran
+  url: https://platinum952.github.io/
+  email: platinum952@qq.com
